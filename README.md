@@ -1,7 +1,3 @@
-**Repository Name:** AndroidMusicPlayer
-
-**README.md:**
-
 # Android Music Player
 
 Android Music Player is a simple yet feature-rich music player application developed in Java for Android devices. This app allows users to browse and play music stored on their device with various functionalities like play, pause, shuffle, repeat, next song, previous song, and dynamic text animation for displaying the music's name.
