@@ -14,7 +14,7 @@ Android Music Player is a simple yet feature-rich music player application devel
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Shubham-zone/AndroidMusicPlayer.git
+git clone https://github.com/Shubham-zone/Android-Music-Player.git
 ```
 
 2. Open the project in Android Studio.
